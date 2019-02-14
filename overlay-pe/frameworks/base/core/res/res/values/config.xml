@@ -134,4 +134,7 @@
 
     <!-- Specify custom blanking delay of the display -->
     <integer name="config_screen_off_delay">0</integer>
+
+    <!-- Whether to enable OP5/T OP cam hack -->
+    <bool name="config_hasOnePlusCamera">true</bool>
 </resources>
