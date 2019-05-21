@@ -137,4 +137,7 @@
 
     <!-- Whether to enable OP5/T OP cam hack -->
     <bool name="config_hasOnePlusCamera">true</bool>
+
+    <!-- Whether device has oled display -->
+    <bool name="config_hasOledDisplay">true</bool>
 </resources>
